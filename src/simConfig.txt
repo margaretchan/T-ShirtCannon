@@ -1,0 +1,6 @@
+leftMotor,0,1
+rightMotor,2,3
+leftJoy,0
+rightJoy,1
+boxJoy,6
+cannonValve,4
